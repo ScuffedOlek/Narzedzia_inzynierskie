@@ -1,0 +1,14 @@
+﻿  narzedzia_inzynierskie.cpp
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(7,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(14,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(21,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(28,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(35,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(43,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(51,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(60,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(62,17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(68,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(70,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\narzedzia_inzynierskie\narzedzia_inzynierskie.cpp(80,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  narzedzia_inzynierskie.vcxproj -> C:\Users\oback\OneDrive\Pulpit\narzedzia_inzynierskie\x64\Debug\narzedzia_inzynierskie.exe
